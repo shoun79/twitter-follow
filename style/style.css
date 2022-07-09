@@ -1,0 +1,84 @@
+.container{
+    max-width: 840px;
+    
+}
+.menus{
+   background-image: url(../images/asset\ 26.png);
+   background-position: cover;
+}
+.img-flu{
+    height: 35px;
+    cursor: pointer;
+}
+.img-flus{
+    height: 30px;
+    cursor: pointer;
+}
+/* bonus */
+.bonus-content{
+    background-color: rgba(0,0,0,.05);
+    margin: 5px 10px 10px 10px;
+    border-radius: 10px;
+    padding: 8px 10px;
+}
+.bonus-content img{
+    width: 30px;
+    height: 30px;
+    margin-right: 7px;
+    
+}
+/* promo */
+.promo{
+    margin: 0 10px;
+}
+.promo img{
+    width: 30px;
+    height: 30px;
+    
+}
+.card{
+    border: none;
+    background:  rgba(0,0,0,.05);
+    border-radius: 10px;
+}
+/* membership */
+.membership img{
+    width: 50px;
+    height: 50px;
+    margin-right:10px ;
+}
+.membership h2{
+    margin: 10px;
+}
+.member-contet{
+    padding: 8px 20px;
+    border-bottom: 2px solid #fff;
+    background:  rgba(0,0,0,.05);
+}
+.img-tushar{
+    border-radius: 50%;
+}
+.text-muted{
+    font-size: 12px;
+}
+.usdt{
+    color:#00bccf ;
+    font-size: 20px;
+    font-weight: 600;
+}
+/* footer */
+footer img{
+    width: 25px;
+    height: 25px;
+    
+}
+.footer-content{
+    padding: 0 40px;
+    margin-top:10px;
+}
+footer p{
+    font-size: 15px;
+}
+.home{
+    color: #00bccf;
+}
